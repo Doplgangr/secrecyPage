@@ -4,7 +4,7 @@ subtitle: Defending Your Files
 logo: /img/logo.svg
 favicon: /img/logo.svg
 description: Secrecy is where you can safely put your files without worrying that others will see it.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/secrecyPage" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 
